@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub
-Let me do something uncommonly!
+Let me do something uncommon!
